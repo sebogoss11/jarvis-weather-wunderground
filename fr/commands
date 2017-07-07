@@ -1,2 +1,3 @@
+*METEO*APRES*DEMAIN*==ww_forecast 3
 *METEO*DEMAIN*==ww_forecast 2
-*METEO*==ww_forecast
+*METEO*AUJOURD HUI*==ww_forecast
