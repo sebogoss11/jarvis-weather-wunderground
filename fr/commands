@@ -1,3 +1,3 @@
 *METEO*APRES*DEMAIN*==ww_forecast 4
 *METEO*DEMAIN*==ww_forecast 2
-*METEO*AUJOURDHUI*|*METEO*JOUR*==ww_forecast && pg_aq_france_default_city=true && say "Indice de pollution : $(pg_aq_france_index)" && say "Indice de pollution : $(pg_aq_france_index)"
+*METEO*AUJOURDHUI*|*METEO*JOUR*==ww_forecast
