@@ -1,3 +1,3 @@
-*METEO*APRES*DEMAIN*==ww_forecast 3
+*METEO*APRES*DEMAIN*==ww_forecast 4
 *METEO*DEMAIN*==ww_forecast 2
-*METEO*AUJOURD HUI*==ww_forecast && pg_aq_france_default_city=true && say "$(pg_aq_france_index)"
+*METEO*AUJOURDHUI*==ww_forecast && pg_aq_france_default_city=true && say "$(pg_aq_france_index)"
